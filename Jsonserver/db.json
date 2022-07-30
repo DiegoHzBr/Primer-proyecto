@@ -1,0 +1,78 @@
+{
+  "data": [
+    [
+      {
+          "id_estacion": 219,
+          "nombre": "Estancia 5 de Enero",
+          "sector": "San Gregorio",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-12",
+          "heladas__minima": -5.4
+      },
+      {
+          "id_estacion": 82,
+          "nombre": "Punta Arenas Rural",
+          "sector": "Punta Arenas",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-12",
+          "heladas__minima": -2.0
+      },
+      {
+          "id_estacion": 35,
+          "nombre": "Puerto Natales",
+          "sector": "Natales",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-12",
+          "heladas__minima": -10.4
+      },
+      {
+          "id_estacion": 103,
+          "nombre": "Isla Riesco",
+          "sector": "Río Verde",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-12",
+          "heladas__minima": -4.3
+      },
+      {
+          "id_estacion": 103,
+          "nombre": "Isla Riesco",
+          "sector": "Río Verde",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-13",
+          "heladas__minima": -0.2
+      },
+      {
+          "id_estacion": 219,
+          "nombre": "Estancia 5 de Enero",
+          "sector": "San Gregorio",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-13",
+          "heladas__minima": -0.7
+      },
+      {
+          "id_estacion": 35,
+          "nombre": "Puerto Natales",
+          "sector": "Natales",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "alta",
+          "heladas__fecha": "2022-07-13",
+          "heladas__minima": -8.7
+      },
+      {
+          "id_estacion": 82,
+          "nombre": "Punta Arenas Rural",
+          "sector": "Punta Arenas",
+          "heladas__helada_random": null,
+          "heladas__prob_helada": "baja",
+          "heladas__fecha": "2022-07-13",
+          "heladas__minima": 3.3
+      }
+    ]
+  ]
+}
